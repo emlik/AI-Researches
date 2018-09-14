@@ -13,6 +13,10 @@ Text Based - Kelime Kök Ayıracı
 
 https://github.com/deeplearningturkiye/kelime_kok_ayirici 
 
+2vecWord
+
+http://adventuresinmachinelearning.com/word2vec-keras-tutorial/
+
 Machine Learning 
 
 https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw 
