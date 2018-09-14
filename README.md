@@ -1,6 +1,8 @@
 # AI-Researches
 Some AI researches that I am doing
 
+Deep Learning Türkiye
+https://deeplearningturkiye.com/ 
 
 How to Develop Word-Based Neural Language Models in Python with Keras 
 
