@@ -21,3 +21,6 @@ Machine Learning
 
 https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw 
 
+CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more
+
+https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5 
