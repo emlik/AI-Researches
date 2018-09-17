@@ -24,3 +24,7 @@ https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw
 CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more
 
 https://medium.com/@sidereal/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5 
+
+
+
+I started my machine learning experience by attending online courses and reading technical documents. Then I developed machine learning algorithms and deep learning structures. I have determined the application areas in the company I work with. I apply for learning machine and deep learning structures solutions. Makes me excited to find solutions with machine learning. The happiness of finding successful results provides effective benefits for me and the company.
